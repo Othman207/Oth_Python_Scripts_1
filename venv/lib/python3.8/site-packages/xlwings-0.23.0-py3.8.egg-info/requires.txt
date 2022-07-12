@@ -1,0 +1,13 @@
+psutil>=2.0.0
+appscript>=1.0.1
+
+[all]
+cryptography
+pandas
+matplotlib
+flask
+pillow
+
+[pro]
+cryptography
+Jinja2
