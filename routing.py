@@ -8,7 +8,7 @@ import geocoder
 from geopy.distance import geodesic
 import openrouteservice as ors
 
-ors_key = '5b3ce3597851110001cf6248f9b1fb084d8f450f9489854ebcd62eaa'
+ors_key = ''
 client = ors.Client(key=ors_key)
 coordinates = [[-86.781247, 36.163532], [-80.191850, 25.771645]]
 #coordinates = [[s_lon, s_lat], [d_lon, d_lat]]
